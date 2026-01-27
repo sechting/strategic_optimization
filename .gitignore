@@ -1,0 +1,16 @@
+# directories
+data/*
+tmp_csv_files/*
+logs/*
+node_modules/
+
+# contract generation artifacts
+*.sanitized.sol
+venv/
+build/
+test/node_modules/
+__pycache__/
+*.tex
+
+#MACOS shizzle
+.DS_Store
