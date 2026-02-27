@@ -6,11 +6,17 @@
 ├── LICENSE
 ├── Makefile
 ├── README.md
-├── cmd
+├── cmd/
+│   ├── cpu_perfunc
+│   ├── dispatcher_waste
 │   ├── erc20_scanner
+│   ├── preprocess
 │   └── traceblock
-├── data
-│   └── generated(erc20scrape.csv)
+├── contract_generation/
+│   ├── build/
+│   ├── src/
+│   └── Makefile
+├── data/
 ├── go.mod
 └── go.sum
 ```
