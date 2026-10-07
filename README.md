@@ -1,5 +1,5 @@
 # Strategic Optimization
-**Paper:** Sustainable Smart Contract Execution via Usage-Aware Strategic Optimization *(submitted to ICBC'26)*
+**Paper:** Usage-Aware Function Dispatch for Smart Contracts *(published at ICBC'26)*
 
 
 ## Measurement Study
